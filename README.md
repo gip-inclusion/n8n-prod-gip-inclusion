@@ -81,7 +81,7 @@ In this repository, we will [release a new version](https://github.com/jbuget/n8
  - Run `npm ci`;
  - Run `npm install --save-exact n8n@x.y.z` where `x.y.z` is the version of `n8n` you want to upgrade to;
  - Commit `package.json` and `package-lock.json`.
- - Run `npm version x.y.z`
+ - Run `npm version x.y.z --force`
 
 Even the database migration scripts are run automatically if necessary at the app startup. 😎
 
