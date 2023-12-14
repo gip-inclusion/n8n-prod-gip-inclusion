@@ -1,6 +1,6 @@
 {
   "name": "n8n-scalingo",
-  "version": "1.15.2",
+  "version": "1.18.2",
   "description": "Scalingo app that runs n8n application",
   "main": "index.js",
   "scripts": {
