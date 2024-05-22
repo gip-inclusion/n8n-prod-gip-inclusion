@@ -7,9 +7,9 @@
     "start": "npx n8n"
   },
   "author": {
-    "name": "Jérémy Buget",
-    "email": "contact@jbuget.fr",
-    "url": "https://jbuget.fr"
+    "name": "Plateforme de l'inclusion",
+    "email": "contact@inclusion.beta.gouv.fr",
+    "url": "https://inclusion.beta.gouv.fr"
   },
   "license": "MIT",
   "dependencies": {
@@ -17,6 +17,6 @@
   },
   "engines": {
     "node": "18",
-    "npm": "9"
+    "npm": "10"
   }
 }
