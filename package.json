@@ -1,6 +1,6 @@
 {
   "name": "n8n-scalingo",
-  "version": "1.37.4",
+  "version": "1.38.2",
   "description": "Scalingo app that runs n8n application",
   "main": "index.js",
   "scripts": {
@@ -13,7 +13,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "n8n": "1.37.4"
+    "n8n": "1.38.2"
   },
   "engines": {
     "node": "18",
