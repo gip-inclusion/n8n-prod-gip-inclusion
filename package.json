@@ -13,10 +13,10 @@
   },
   "license": "MIT",
   "dependencies": {
-    "n8n": "1.109.1"
+    "n8n": "2.2.5"
   },
   "engines": {
     "node": "22",
     "npm": "10"
-  }
+  },
 }
