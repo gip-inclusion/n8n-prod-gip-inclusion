@@ -1,0 +1,9 @@
+docs/
+*.md
+**/test/
+**/tests/
+**/__tests__/
+**/*.map
+**/example/
+**/examples/
+**/CHANGELOG*
